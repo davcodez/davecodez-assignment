@@ -8,5 +8,5 @@ while True:
         break
     total += number
 
-
+    
 print("The sum of all entered numbers is:", total)

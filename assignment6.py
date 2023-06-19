@@ -8,7 +8,6 @@ while name != "END":
 
 print("I am done.")
 
-# Print all the names entered
 print("Entered names:")
 for name in names:
     print(name)
