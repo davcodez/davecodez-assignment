@@ -61,3 +61,4 @@ def play_game():
         print("Invalid choice. Please try again.")
 
 play_game()
+# The end of the game
